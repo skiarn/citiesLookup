@@ -1,4 +1,7 @@
 # Compiled Object files, Static and Dynamic libs (Shared Objects)
+citieslookup.log
+cities1000.zip
+readme.txt
 *.o
 *.a
 *.so
